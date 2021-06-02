@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<div class="paper paper__large">
+  <div class="content content__narrow">
+    <div class="article intercom-force-break">
+      <div class="article__meta" dir="ltr">
+          <h1 class="t__h1">Activate learner levels</h1>
+          <div class="article__desc">
+            How do I activate levels for my learners? How to activate the gamification feature on the platform?
+          </div>
+          <div class="avatar">
+  <div class="avatar__photo o__ltr">
+      <img src="https://static.intercomassets.com/avatars/4004378/square_128/photo_profil-1587972480.png?1587972480" alt="Claire Philippe avatar" class="avatar__image">
 
-You can use the [editor on GitHub](https://github.com/gaempmic/RiseUp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  </div>
+  <div class="avatar__info">
+    <div>
+      Written by <span class="c__darker"> Claire Philippe</span>
+        <br> Updated over a week ago
+    </div>
+  </div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      </div>
+      <article dir="ltr"><p class="no-margin">The levels aim to award success points to your learners, in order to stimulate your teams and keep track of their progress.<br><br></p><h2 id="activate-levels" data-post-processed="true">Activate levels</h2><p class="no-margin">Access: <b>Settings ⚙️ &gt; Objectives section</b></p><p class="no-margin"></p><p class="no-margin">Click on the "Activate gamification linked to levels and pointss" checkbox to activate the feature associated with levels.</p><p class="no-margin"></p><div class="intercom-container"><a href="https://downloads.intercomcdn.com/i/o/257097824/3335ab75e393eb85f4121bda/image.png?expires=1620407305&amp;signature=385e1a808c38c94e3fde7a0a168637191f97f29bc3f33678a1baaf4a3331112a" rel="nofollow noopener noreferrer" target="_blank"><img src="https://downloads.intercomcdn.com/i/o/257097824/3335ab75e393eb85f4121bda/image.png?expires=1620407305&amp;signature=385e1a808c38c94e3fde7a0a168637191f97f29bc3f33678a1baaf4a3331112a"></a></div><p class="no-margin">ℹ️ To activate Levels, you must first activate the "<b>Objectives</b>" functionality.</p><p class="no-margin">To learn more about objectives, see the article <a href="http://help.riseup.ai/fr/articles/3971695">Activate objectives for learners</a>.</p><p class="no-margin"></p><p class="no-margin"></p><p class="no-margin">Once the feature is activated, you will need to:</p><ul><li><p class="no-margin"><a href="https://help.riseup.ai/en/articles/4549701">Set the levels of your learners</a></p></li><li><p class="no-margin"><a href="https://help.riseup.ai/en/articles/4549707">Assign success points to your objectives</a></p></li></ul><p class="no-margin">When your learners achieve objectives for which success points have been set, they will automatically earn these success points, and, by accumulating them, will be able to increase their level on the platform.</p><p class="no-margin"></p><p class="no-margin"></p><p class="no-margin"><i>Last updated on 19/10/2020.</i></p></article>
+    </div>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gaempmic/RiseUp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div>
